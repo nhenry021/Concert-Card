@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">concert card</string>
+    <string name="txtTitle">Ticket Vault</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt">Select Group</string>
+    <string name="btnCost">FIND THE COST</string>
+    <string-array name="txtGroup">
+        <item>Panic at the Disco</item>
+        <item>Fall Out Boys</item>
+        <item>Kanye West</item>
+
+    </string-array>
+
+</resources>
+
